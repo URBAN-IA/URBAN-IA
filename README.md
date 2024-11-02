@@ -19,11 +19,12 @@ URBAN-IA는 다음의 5가지 핵심 분야를 중심으로 구성되어 있습�
 
 | 분야 | 설명 |
 | --- | --- |
+| **Urban** | 도시계획에 대한 고민 (도시 설계 및 계획이론, 의사결정, 관련 연구등) |
 | **AI** | 미래 도시의 AI 기술 탐구: 머신러닝, 딥러닝, 이상 탐지 등 |
 | **Cloud Service** | Azure와 AWS를 통한 스마트시티 클라우드 서비스 학습 |
 | **Container Environment** | Docker와 Kubernetes를 활용한 도시 데이터 분석 환경 구축 |
 | **Data Analysis** | 공간 분석, 시계열 분석, 통계 및 데이터 시각화 |
-| **Distributed Computing** | Spark, Kafka 등 초대규모 데이터를 위한 분산 처리 |
+| **Distributed Computing** | Spark, Kafka 등 대규모 데이터를 위한 분산 처리 |
 
 ---
 
