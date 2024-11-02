@@ -1,8 +1,66 @@
-- 👋 Hi, I’m @URBAN-IA
-- 👀 I’m interested in [Urban Planning, Real_Estate, AI, BigData]
-- 🌱 I’m currently learning Artificial Intelligence in UOS & Upstage AI LAB
-- 💞️ I’m looking to collaborate on DATA SCIENCE
-<!---
-URBAN-IA/URBAN-IA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+# URBAN-IA
+
+도시계획과 스마트시티의 발전을 위해 AI를 활용한 혁신적 솔루션을 연구하고, 다양한 기술과 인프라를 학습하며 공유하는 레포입니다. 이 레포에서는 도시 계획에서 AI를 실현하기 위한 필수 시스템 구축을 목표로 하고 있으며, 이와 관련된 다양한 학습 내용들을 코드 단위로 정리하여 제공합니다.
+
+## 주요 분야
+
+본 레포에서는 다음과 같은 주요 분야를 다룹니다.
+
+- **AI**
+- **Cloud Service**
+- **Container Environment**
+- **Data Analysis**
+- **Distributed Computing**
+
+각 분야의 상세한 설명과 목표는 아래와 같습니다.
+
+### AI
+
+도시 분야의 인공지능 연구를 위한 기초부터 고급 기술까지 다양한 AI 기술을 다룹니다. 예제 코드와 함께 AI 기초 개념과 적용 방법을 제공합니다. 주요 학습 주제는 다음과 같습니다.
+
+- 스마트시티
+- 선형대수학
+- 최적화 문제
+- 머신러닝
+- 회귀 분석
+- 분류 분석
+- 군집 분석
+- 추천 시스템
+- 이상 탐지
+- 딥러닝
+- PyTorch 기본
+- 컴퓨터 비전
+- 음성 신호 처리
+- 자연어 처리
+- 검색 시스템
+- 그래프-인공신경망(GNN)
+
+### Cloud Service
+
+스마트시티나 도시 계획 분야에서 Azure와 AWS를 활용하는 방법을 다룹니다. 해당 클라우드 서비스를 기반으로 한 분석 및 서비스 구현을 위한 학습 자료와 샘플 코드를 공유합니다.
+
+### Container Environment
+
+도시 AI 및 빅데이터 분석에 필요한 Docker 및 Kubernetes와 같은 컨테이너 환경을 다룹니다. 이러한 환경을 통해 스마트시티에서의 인공지능 및 데이터 분석을 서비스로 구현하거나 협업 환경을 구축할 수 있는 방법을 학습하고, 관련 자료를 제공합니다.
+
+### Data Analysis
+
+스마트시티 데이터 분석을 위해 필요한 다양한 데이터 분석 기법과 통계적 접근 방법을 다룹니다. 주요 주제는 다음과 같습니다.
+
+- 스마트시티 데이터 전처리
+- 통계 분석
+- 시계열 분석
+- 의사결정 분석 (MCDM)
+- 공간 분석 (GIS / Spatial Analysis)
+- 데이터 시각화
+- 리더보드
+
+### Distributed Computing
+
+도시 규모의 초거대 데이터를 실시간으로 처리하고 분석하기 위해 Apache Spark, Kafka 등과 같은 분산 처리 기술을 다룹니다. 실시간 빅데이터 처리와 분산 처리 관련 연구 자료 및 코드 예제를 제공합니다.
+
+---
+
+이 레포는 지속적으로 업데이트되며, 연구 및 개발을 위한 자료가 필요하거나 도시 AI 연구와 스마트시티 개발에 관심 있는 분들께 도움이 될 것입니다.
